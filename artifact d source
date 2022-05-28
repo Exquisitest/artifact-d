@@ -5,7 +5,7 @@ local tb = Instance.new("TextButton")
 
 -- Prop.
 
-ui.Name = "ArtifactD"
+ui.Name = "ArtD"
 ui.Parent = game.CoreGui
 ui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
